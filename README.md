@@ -37,19 +37,6 @@ npm run dev
 
 Uygulama http://localhost:3000 adresinde çalışacaktır.
 
-## 📝 Kullanım
-
-1. `/posts` klasörüne markdown formatında blog yazılarınızı ekleyin
-2. Her yazı için gerekli meta verileri ekleyin:
-   ```markdown
-   ---
-   title: "Blog Başlığı"
-   date: "2024-03-20"
-   description: "Blog açıklaması"
-   ---
-   ```
-3. Yazılarınız otomatik olarak ana sayfada listelenecektir
-
 ## 🌐 Canlı Demo
 
 [Live Demo](https://markdown-blog-app.vercel.app)
