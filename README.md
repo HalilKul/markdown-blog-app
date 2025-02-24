@@ -37,10 +37,6 @@ npm run dev
 
 Uygulama http://localhost:3000 adresinde çalışacaktır.
 
-## 🌐 Canlı Demo
-
-[Live Demo](https://markdown-blog-app.vercel.app)
-
 ## 📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.
