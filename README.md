@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Uygulama http://localhost:3000 adresinde çalışacaktır.
+Uygulama https://markdown-blog-app-pi.vercel.app/ adresinde çalışacaktır.
 
 ## 📄 Lisans
 
